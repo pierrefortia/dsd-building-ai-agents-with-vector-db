@@ -1,5 +1,6 @@
-# Data Science Dojo Agentic AI Conference 
 # Building AI Agents with Vector Databases
+
+*Data Science Dojo Agentic AI Conference*
 
 
 ## Create a Weaviate Cloud instance
