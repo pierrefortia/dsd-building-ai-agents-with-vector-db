@@ -25,6 +25,7 @@ Update env vars in .env.
 
 Hint. you can find your Weaviate Cluster URL and API keys in the [WCD console](https://console.weaviate.cloud/).
 
-* WEAVIATE_URL - is the `REST Endpoint`
-* WEAVIATE_KEY - is the `Admin` key in `API Keys`
+* WEAVIATE_URL= is the `REST Endpoint`
+* WEAVIATE_KEY= is the `Admin` key in `API Key`
+* OPENAI_API_KEY= is your `OpenAI API Key`
 
